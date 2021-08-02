@@ -9,6 +9,21 @@ transition: 0.1s;
 html,body{
 font-family: 'Righteous', cursive;
 }
+footer{
+  font-size: 12px;
+position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
+footer a{
+  color: blue;
+  font-size: 16px;
+}
+footer a:hover{
+  color: white;
+}
 nav{
   background: #0082e6;
   min-height: 80px;
